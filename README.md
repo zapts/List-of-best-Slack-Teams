@@ -657,6 +657,16 @@
 <td class="confluenceTd" colspan="1">Community for iOS developers</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://perfect.ly" rel="nofollow">Perfect: Server Side Swift</a></td>
+<td class="confluenceTd" colspan="1">2015</td>
+<td class="confluenceTd" colspan="1">Server Side Swift community, focused on Perfect and related Swift technologies.</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://swift-lang.schwa.io/" rel="nofollow">Swift-lang</a></td>
+<td class="confluenceTd" colspan="1">1748</td>
+<td class="confluenceTd" colspan="1">Programming language community</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="https://iosstack-friends.signup.team/" rel="nofollow">iosstack-friends</a></td>
 <td class="confluenceTd" colspan="1">680</td>
 <td class="confluenceTd" colspan="1">The App Guy Podcast</td>
