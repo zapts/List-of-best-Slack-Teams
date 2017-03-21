@@ -648,13 +648,8 @@
 </tr>
 <tr>
 <td class="confluenceTd" colspan="3">
-<h3 id="id-300+100каналоввSlack-iOS">iOS</h3>
+<h3 id="id-300+100каналоввSlack-Swift">Swift</h3>
 </td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="https://ios-developers.io/" rel="nofollow">iOS Developers HQ</a></td>
-<td class="confluenceTd" colspan="1">9600</td>
-<td class="confluenceTd" colspan="1">Community for iOS developers</td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://perfect.ly" rel="nofollow">Perfect: Server Side Swift</a></td>
@@ -667,11 +662,6 @@
 <td class="confluenceTd" colspan="1">Programming language community</td>
 </tr>
 <tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="https://iosstack-friends.signup.team/" rel="nofollow">iosstack-friends</a></td>
-<td class="confluenceTd" colspan="1">680</td>
-<td class="confluenceTd" colspan="1">The App Guy Podcast</td>
-</tr>
-<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.zewo.io/" rel="nofollow">Zewo</a></td>
 <td class="confluenceTd" colspan="1">490</td>
 <td class="confluenceTd" colspan="1">Open source libraries in Swift for modern server software</td>
@@ -680,6 +670,26 @@
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://swiftnoobs.xyz/" rel="nofollow">Swift Noobs</a></td>
 <td class="confluenceTd" colspan="1">223</td>
 <td class="confluenceTd" colspan="1">Community devoted to learning the Swift programming language</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.swiftx.io/" rel="nofollow">Open Swift</a></td>
+<td class="confluenceTd" colspan="1">101</td>
+<td class="confluenceTd" colspan="1">Swift Group</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="3">
+<h3 id="id-300+100каналоввSlack-iOS">iOS</h3>
+</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="https://ios-developers.io/" rel="nofollow">iOS Developers HQ</a></td>
+<td class="confluenceTd" colspan="1">9600</td>
+<td class="confluenceTd" colspan="1">Community for iOS developers</td>
+</tr>
+<tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="https://iosstack-friends.signup.team/" rel="nofollow">iosstack-friends</a></td>
+<td class="confluenceTd" colspan="1">680</td>
+<td class="confluenceTd" colspan="1">The App Guy Podcast</td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://tvos-developers.github.io/" rel="nofollow">tvOS</a></td>
