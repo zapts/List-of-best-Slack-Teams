@@ -1,4 +1,4 @@
-We're excited to see how communities on Slack are steadily growing day by day. People from different countries and backgrounds discuss a various range of topics in these communities.
+> Use [atom-beautify](https://github.com/Glavin001/atom-beautify) for formatting.
 
 # Product Talks
 
