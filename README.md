@@ -1,7 +1,4 @@
-
-
-<p style="text-align: justify;">We're excited to see how communities on Slack are steadily growing day by day. People from different countries and backgrounds discuss a various range of topics in these communities. It is a source of valuable information and contacts we use every day at <a href="http://reportchef.com/?utm_source=github&amp;utm_medium=readmelink&amp;utm_campaign=300communities">ReportChef</a> to build one single tool to share progress and obstacles with your team in Slack. We decided to compose a list of Slack communities for your own good. It took Dmitry (analyst at <a href="http://reportchef.com/?utm_source=github&amp;utm_medium=readmelink&amp;utm_campaign=300communities">ReportChef</a>) several weeks and after he finished it on 22nd of Aug, the list contained 300 communities.</p>
-<p style="text-align: justify;"><strong>Update from 06-Sept:</strong> We're glad that many of you liked the list and have been sending us links with other communities. We decided to look for more, especially for non-IT Slack communities. And now the list contains <span style="color: #800080;">425 communities</span>. Can we make it to 500? :)</p>
+<p style="text-align: justify;">We're excited to see how communities on Slack are steadily growing day by day. People from different countries and backgrounds discuss a various range of topics in these communities.
 
 <table class="confluenceTable" style="height: 334px;" width="1383">
 <h1></h1>
@@ -2668,7 +2665,3 @@
 <tbody>
 </tbody>
 </table>
-<h4 id="id-11-Theultimatelistof300Slackcommunities(Clicktotweet)" style="text-align: justify;"><strong>Thanks for reading till the end! Do you know any other communities on Slack that are missing here? Please leave them in the comments below.</strong></h4>
-<h4></h4>
-<h4></h4>
-<strong>P.S. If </strong><strong>you found this list worthwhile please </strong><strong>share it with your friends!</strong>
