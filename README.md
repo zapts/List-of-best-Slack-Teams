@@ -627,6 +627,11 @@
 <td class="confluenceTd" colspan="1">Edge.js community</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://slackin.angularbeers.org" rel="nofollow">AngularBeers</a></td>
+<td class="confluenceTd" colspan="1">1110</td>
+<td class="confluenceTd" colspan="1">Angular Barcelona Community</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="3">
 <h3 id="id-300+100каналоввSlack-PHP">PHP</h3>
 </td>
