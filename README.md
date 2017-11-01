@@ -1112,6 +1112,11 @@
 <td class="confluenceTd" colspan="1">Open source Rails CMS</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://aemtech.slack.com/" rel="nofollow">Adobe Experience Manager (AEM) CMS</a></td>
+<td class="confluenceTd" colspan="1">300</td>
+<td class="confluenceTd" colspan="1">Adobe Experience Manager (AEM) CMS (To join, send an email to aemtech@zapts.com with your first & last name, email address, and job title)</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://wpbusiness.chat/join/" rel="nofollow">WP Business</a></td>
 <td class="confluenceTd" colspan="1">63</td>
 <td class="confluenceTd" colspan="1">Questions, resources, frameworks, tools, invoicing, clients, newsletters, taxes, help and more on WordPress</td>
