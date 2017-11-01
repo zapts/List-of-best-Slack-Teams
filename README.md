@@ -1097,6 +1097,11 @@
 <td class="confluenceTd" colspan="1">Modular and multilingual CMS</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.alchemy-cms.com/" rel="nofollow">AlchemyCMS</a></td>
+<td class="confluenceTd" colspan="1">88</td>
+<td class="confluenceTd" colspan="1">Open source Rails CMS</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://developer.ninjaforms.com/slack/" rel="nofollow">Ninja Forms</a></td>
 <td class="confluenceTd" colspan="1">136</td>
 <td class="confluenceTd" colspan="1">WordPress form builder</td>
@@ -1105,11 +1110,6 @@
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://www.spinacms.com/" rel="nofollow">SpinaCMS</a></td>
 <td class="confluenceTd" colspan="1">123</td>
 <td class="confluenceTd" colspan="1">CMS for Rails developers</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.alchemy-cms.com/" rel="nofollow">AlchemyCMS</a></td>
-<td class="confluenceTd" colspan="1">88</td>
-<td class="confluenceTd" colspan="1">Open source Rails CMS</td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://aemtech.slack.com/" rel="nofollow">Adobe Experience Manager (AEM) CMS</a></td>
