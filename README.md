@@ -1097,6 +1097,11 @@
 <td class="confluenceTd" colspan="1">Modular and multilingual CMS</td>
 </tr>
 <tr>
+<td class="confluenceTd" colspan="1"><a class="external-link" href="http://aemtech.slack.com/" rel="nofollow">Adobe Experience Manager (AEM) CMS</a></td>
+<td class="confluenceTd" colspan="1">300</td>
+<td class="confluenceTd" colspan="1">Adobe Experience Manager (AEM) CMS (To join, send an email to aemtech@zapts.com with your first & last name, email address, and job title)</td>
+</tr>
+<tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://developer.ninjaforms.com/slack/" rel="nofollow">Ninja Forms</a></td>
 <td class="confluenceTd" colspan="1">136</td>
 <td class="confluenceTd" colspan="1">WordPress form builder</td>
@@ -1110,11 +1115,6 @@
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://slack.alchemy-cms.com/" rel="nofollow">AlchemyCMS</a></td>
 <td class="confluenceTd" colspan="1">88</td>
 <td class="confluenceTd" colspan="1">Open source Rails CMS</td>
-</tr>
-<tr>
-<td class="confluenceTd" colspan="1"><a class="external-link" href="http://aemtech.slack.com/" rel="nofollow">Adobe Experience Manager (AEM) CMS</a></td>
-<td class="confluenceTd" colspan="1">300</td>
-<td class="confluenceTd" colspan="1">Adobe Experience Manager (AEM) CMS (To join, send an email to aemtech@zapts.com with your first & last name, email address, and job title)</td>
 </tr>
 <tr>
 <td class="confluenceTd" colspan="1"><a class="external-link" href="http://wpbusiness.chat/join/" rel="nofollow">WP Business</a></td>
