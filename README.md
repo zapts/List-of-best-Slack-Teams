@@ -181,7 +181,6 @@ Community                                       | Members | Description
 [Perfect: Server Side Swift](http://perfect.ly) | 2015    | Server Side Swift community, focused on Perfect and related Swift technologies.
 [Swift-lang](http://swift-lang.schwa.io/)       | 1748    | Programming language community
 [Zewo](http://slack.zewo.io/)                   | 490     | Open source libraries in Swift for modern server software <http://swiftnoobs.xyz/> Swift Noobs 223 Community devoted to learning the Swift programming language
-[Open Swift](http://slack.swiftx.io/)           | 101     | Swift Group
 
 ## iOS
 
