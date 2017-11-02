@@ -276,7 +276,6 @@ Community                                                                       
 [FlyElephant.Net](http://slack.flyelephant.net/)                                         | 110                       | Platform, which provides a ready-computing infrastructure for high-performance computing and rendering
 [Racket](http://racket-slack.herokuapp.com/)                                             | 108                       | Multi-paradigm programming language in the Lisp-Scheme family
 [Chameleon](https://www.trychameleon.com/slack)                                          | 95                        | Platform for user onboarding and website tours
-[Yo Developers Community](https://www.hamsterpad.com/chat/yodev)                         | 79                        | Discuss Yo API, integrations, features and more
 
 # Tech Talks
 
