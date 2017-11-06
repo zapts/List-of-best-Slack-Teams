@@ -284,6 +284,9 @@ Community                                                          | Members | D
 ------------------------------------------------------------------ | ------- | -----------------------------------------------------------------------
 [Kubernetes](http://slack.k8s.io/)                                 | 6715    | Automated container deployment, scaling, and management
 [MacAdmins](https://macadmins.herokuapp.com/)                      | 6400    | OS X Admins
+[Apollo GraphQL](https://www.apollographql.com/#slack)             | 4000    | Apollo provides a universal GraphQL API on top of your existing services, so you can build new application features fast without waiting on backend changes.
+
+
 [DevOps](https://devopschat.co/)                                   | 3003    | Slack Channel dedicated to chatting and learning about DevOps
 [WinAdmins](https://slofile.com/slack/winadmins)                   | 1848    | Windows Admins
 [The Spatial Community](https://get.maptiks.com/gisdevs-on-slack/) | 1335    | Geodatabase
