@@ -201,7 +201,7 @@ Community                                                              | Members
 Community                                                        | Members | Description
 ---------------------------------------------------------------- | ------- | ------------------------------------------------
 [Ruby on Rails](http://www.rubyonrails.link/)                    | 3111    | Ruby on Rails developers from all over the world
-[Ruby Developers](https://rubydevelopers.typeform.com/to/l7WVWl) | 1900    | Ruby and Ruby on Rails Slack group
+[Ruby Developers](https://rubydevs.herokuapp.com) | 1900    | Ruby and Ruby on Rails Slack group
 
 ## Python
 
