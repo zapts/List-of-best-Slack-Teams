@@ -129,9 +129,7 @@ Community                                                         | Members | De
 [Zeit.co](https://zeit.chat/)                                     | 594     | Cloud deployment service and free global DNS
 [Platform.sh](https://chat.platform.sh/)                          | 374     | Continuous deployment cloud hosting
 [OpenContrail](http://slack.opencontrail.org/)                    | 261     | Open-source network virtualization platform for the cloud
-[Microsoft Azure](https://www.hamsterpad.com/chat/azured)         | 206     | All aspects of Microsoft Azure, ask questions and get answers
 [Cloud Native Computing Foundation](https://slack.cncf.io/)       | 190     | Linus Torvalds (Linux) foundation
-[AWS](https://www.hamsterpad.com/chat/reinvent2015)               | 123     | Community of Amazon Web Services users around AWS event
 
 ## Miscellaneous
 
