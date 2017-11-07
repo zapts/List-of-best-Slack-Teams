@@ -226,12 +226,6 @@ Community                                   | Members | Description
 ------------------------------------------- | ------- | -----------------------------------------------------------
 [Ratpack](https://slack-signup.ratpack.io/) | 337     | Set of Java libraries for building modern HTTP applications
 
-## Dart
-
-Community                                     | Members | Description
---------------------------------------------- | ------- | ------------------------------
-[Dart](https://dartlang-slack.herokuapp.com/) | 678     | Programming language community
-
 ## Frontend
 
 Community                                             | Members | Description
