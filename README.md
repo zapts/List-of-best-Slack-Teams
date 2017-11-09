@@ -326,7 +326,6 @@ Community                                                                       
 [Women in Sales](http://www.womenintechsales.com/join-the-slack-channel-for-women-in-sales-community) | 223     | For women working in sales roles who want to connect and learn from each other
 [Customer Retention and Happiness](https://thomsonnguyen.typeform.com/to/QIcekS)                      | 134     | Community of people who want to retain users, and talk about product changes, and marketing techniques
 [Mobile Creatives](https://famouslabs.typeform.com/to/YoxFPU)                                         | n/a     | Mobile development and marketing
-[GrowthNetwork](http://growthnetwork.org/)                                                            | n/a     | Growth hackers around the world
 
 ## FinTech and Finance
 
