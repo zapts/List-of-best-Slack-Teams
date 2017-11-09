@@ -183,9 +183,7 @@ Community                                                 | Members | Descriptio
 
 Community                                                              | Members                                   | Description
 ---------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------------
-[Android Chat](https://androidchat.co/)                                | 3141                                      | Place for conversation between developers, idealists, entrepreneurs or geeks
 [Android United](http://android-united.community/)                     | 2000                                      | Community of professional Android developers
-[Android App Makers](https://www.hamsterpad.com/chat/androidappmakers) | 173 Free community for android developers
 [HashtagAndroid](http://www.hashtagandroid.net/)                       | 129                                       | Chat with other developers and stay up to date with Android
 
 ## Ruby, RoR
@@ -201,13 +199,11 @@ Community                                                        | Members | Des
 ---------------------------------------------------------------- | ------- | ----------------
 [Python Developers](https://pythondevelopers.herokuapp.com/)     | 1906    | Python community
 [Python Community](http://python-community-slack.herokuapp.com/) | 1166    | Python community
-[Django Developers](http://django-developers.herokuapp.com/)     | 463     | Web framework
 
 ## Go
 
 Community                                                                                                                                                      | Members                      | Description
 -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------
-[Gophers](https://gophersinvite.herokuapp.com/)                                                                                                                | 8948 Programming language Go
 [Gophers Community](https://docs.google.com/forms/d/e/1FAIpQLScNsNXbz2SCLH5hVNoZS0C70nPAXv730SW9F3K1g6iVvlcUTg/viewform?fbzx=4754263898376949596#start=invite) | n/a                          | Gophers clan
 
 ## Java
