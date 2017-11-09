@@ -582,13 +582,11 @@ Community                                                      | Members | Descr
 Community                                                            | Members | Description
 -------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------
 [TECH404](http://tech404.io/)                                        | 3354    | Group of chat channels for Atlanta area developers, designers, marketers, business people, hobbyists, students, and other professionals involved in technology
-[Portland pdxstartups](https://www.hamsterpad.com/chat/pdxstartups)  | 2089    | Slack instance that helps the Portland startup community stay connected
 [NashDev](http://nashdev.com/)                                       | 1854    | Nashville developer community
 [Chicago Tech](http://chicagotech.herokuapp.com/)                    | 1624    | Chicago scene
 [NYCTech](http://www.nyctechslack.com/)                              | 1531    | New York City Tech
 [Software Craftsmanship](http://slack.softwarecraftsmanship.org/)    | 1379    | Los Angeles community
 [Mid West Dev Chat](http://midwestdevchat.com/)                      | 772     | US Middle West IT-community
-[NewTech Colorado](https://www.hamsterpad.com/chat/newtechcolorado)  | 683     | Community of technologists based in Colorado
 [BetaNYC](http://slack.beta.nyc/)                                    | 521     | NYC meetup
 [KnoxDevs](http://knoxdevs.com/)                                     | 481     | Knoxville area software development community
 [Techlahoma](http://www.techlahoma.org/)                             | 398     | Oklahoma scene
@@ -596,16 +594,13 @@ Community                                                            | Members |
 [Philadelphia Startup Leaders](https://www.sendgrowth.com/psl)       | 380     | Startups from Philly
 [PIGSquad](https://pigsquadslack.herokuapp.com/)                     | 366     | Portland Indie Game Squad
 [Seattle Hacks](http://seattlehacks.herokuapp.com/)                  | 347     | Seattle community
-[The Parkland](http://parkland-slackin.herokuapp.com/)               | 284     | Startup community in Raleigh, Durham, Chapel Hill and surrounding region (The Triangle, NC)
 [Mid West Design Chat](http://midwestdesignchat.com/)                | 273     | US Middle West designers
 [SA Tech Bloc](http://slack.satechbloc.com/)                         | 218     | San Antonio community
 [OrlandoDevs](http://orlandodevelopers.technology/)                  | 1113    | The Orlando developers Slack group
 [PDX Digital PM](https://pdx-digital-pm-slack-invite.herokuapp.com/) | 195     | Portland's community for Digital Project Management
 [Tech Community of New Mexico](http://techcommunityofnm.org/)        | 155     | Place for New Mexican technologists of all stripes to see and be seen
-[PRO @ UCSD](http://proclub.ucsd.edu/#slack)                         | 85      | PRO (The Producers and Remixers Organization) is a student-run organization at the University of California, San Diego
 [BUX](https://bux-slack.herokuapp.com/)                              | 64      | UX in Baltimore
 [Utah Games Guild](http://www.utahgamesguild.com/slack-channel/)     | n/a     | Utah indie game community
-[UnityDevs](https://unitydevs.signup.team/)                          | n/a     | Where Unity developers gather to recount their adventures in the wild
 [Wyoming Tech](https://wyotech.herokuapp.com)                        | n/a     | Bringing togetherWyoming's Tech community
 
 ## Uzbekistan
@@ -614,12 +609,6 @@ Community                                 | Members | Description
 ----------------------------------------- | ------- | -------------------------------
 [Tashkent Developers](https://tasdev.uz/) | 77      | Uzbekistan developers community
 
-## Vietnam
-
-Community                                | Members | Description
----------------------------------------- | ------- | ----------------
-[Vietnam JS](http://chat.vietnamjs.lol/) | 213     | JS in Vietnamese
-
 # Miscellaneous
 
 ## Freelancers
@@ -627,28 +616,20 @@ Community                                | Members | Description
 Community                                                                                           | Members | Description
 --------------------------------------------------------------------------------------------------- | ------- | -----------------------------------------------------------------------------------------
 [NomadList](https://join.nomadlist.com/)                                                            | 4000    | Social network for digital nomads
-[NomadEntrepreneurs](http://nomadentrepreneurs.co/)                                                 | 850     | Nomad List finds you the best places in the world to live and work remotely
 [Freelance Chat](http://freelance.chat/)                                                            | 700     | Connect with other freelancers and start sharing your stories, experience, and knowledge!
 [Remotive](http://remotive.io/)                                                                     | 311     | Community about remote work and productivity
-[Remote Work](https://www.hamsterpad.com/chat/workremotely)                                         | 256     | Remote work community
-[#OnlineCareer](http://join.onlinecareerist.com/)                                                   | 256     | Remote workers worldwide
-[Remote Together](https://remotetogether.com/slack.html)                                            | 224     | Remote workers
 [VA-Chat](https://va-chat.com/)                                                                     | 102     | Virtual Assistant community
-[Writers-On-Slack](http://www.slackin.xyz/out?url=https%3A%2F%2Fgoo.gl%2Fforms%2FXxJAHifMHzZkxg8z1) | 25      | Writers, copywriters, freelancers
 [Workfrom](https://workfrom.co/chat)                                                                | n/a     | Remote workers, freelancers, entrepreneurs and distributed companies all over the world
 
 ## Games
 
 Community                                                                                            | Members | Description
 ---------------------------------------------------------------------------------------------------- | ------- | -----------------------------------------------------------
-[PokemonGo-Bot](https://pokemongo-bot.herokuapp.com/)                                                | 11400   | Chat for PokemonGo Game
 [#gaming](http://www.hashtaggaming.co/)                                                              | 2389    | Gamers community
 [RPG Talk](http://rpg-talk.com/)                                                                     | 887     | Chat about all your favorite role-playing games!
-[Esports Professional Network](http://www.esportsprofessionals.net/member-levels/join/)              | 649     | Community of e-sports professionals, players and businesses
 [DND RPG](http://www.falconiers.com/dndrpg)                                                          | 155     | D&D game chat
 [SteamPool](https://slofile.com/slack/steampool)                                                     | 140     | Chat for gamers who try to earn Steam gift cards in games
 [#MTG](https://mtgslackers.herokuapp.com/) [Magic The Gathering](https://mtgslackers.herokuapp.com/) | 114     | A chat group for everything Magic The Gathering
-[Drug Wars](https://www.drugwars.online/)                                                            | n/a     | Drug wars Game on Slack but not released yet
 
 ## HR
 
@@ -679,7 +660,6 @@ Community                                       | Members | Description
 
 Community                                                    | Members | Description
 ------------------------------------------------------------ | ------- | ------------------------------------------------------------------------------------------------------------
-[Nylas N1](http://slack-invite.nylas.com/)                   | 2413    | Open source desktop email client
 [TiSlack](http://tislack.org/)                               | 1050    | Titanium Community on the web from the Appcelerator Platform (native apps, mobile APIs, real-time analytics)
 [Clearbit](https://chat.clearbit.com/)                       | 646     | Business Intelligence APIs
 [AirBNB Hosts](http://travelerschat.com/)                    | 604     | Chat with other Hosts from all over the World
@@ -693,12 +673,6 @@ Community                                                    | Members | Descrip
 Community                                             | Members | Description
 ----------------------------------------------------- | ------- | ----------------------------------
 [BioBreaks](https://biobreaks.typeform.com/to/giuTkj) | n/a     | Growing biotech community on Slack
-
-## Travel
-
-Community                                | Members | Description
----------------------------------------- | ------- | ----------------------------------------------------------------------------------------------------------------------------
-[TravelToday](https://traveltoday.chat/) | n/a     | The chat community for long-term travelers: share tips and experiences for your round-the-world trip, road-trip, expat, etc.
 
 ## Other
 
@@ -723,8 +697,6 @@ Community                                                                       
 [Cinereelists](http://cinereelists.com/wp-login.php?action=slack-invitation)                                                             | 217     | Chat for movie geeks: streaming, torrents etc.
 [X-Wing Games](https://slofile.com/slack/xwingtmg)                                                                                       | 187     | X-Wing Miniatures Games community
 [Hack Productivity](https://hackproductivity.herokuapp.com/)                                                                             | 167     | Productivity tips
-[Lonely Internet People](http://lonelyinternetpeople.com/)                                                                               | 148     | Show us your tears!
-[#MusicBiz](https://musicbiz.co/#/)                                                                                                      | 123     | Slack Community for the Music Industry
 [StarWarsChat](http://starwarschat.herokuapp.com/)                                                                                       | 120     | A community of Star Wars fans, chatting. About Star Wars. Mostly.
 [Happy Docs](https://fluentsystems.typeform.com/to/ktb8G2)                                                                               | 51      | Community of medical professionals who discuss efficiency strategies, latest advances in the industry, navigating our practice in the EMR era and simply connecting with one another
 [Sci-Fi and Fantasy](https://docs.google.com/forms/d/e/1FAIpQLSc_JMsRWTEkSx2bWmk1cvcBZ31GeJqcy5QBKyFXcY_bEplI9A/viewform?c=0&w=1)        | 50      | Folks who like Sci-Fi and Fantasy of all types and mediums
