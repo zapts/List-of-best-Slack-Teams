@@ -279,24 +279,20 @@ Community                                                                       
 [WordPress](https://make.wordpress.org/chat/)                                               | 11458   | Community for the teams of people who contribute to the WordPress open source project
 [CraftCMS](https://craftcms.com/community)                                                  | 2805    | Content-first CMS
 [Sitecore](http://www.akshaysura.com/2015/10/27/how-to-join-sitecore-slack-community-chat/) | 1092    | Sitecore CMS
-[Shopify Lovers](http://ecommtalk.com/join.html)                                            | 800     | Online store engines, CMS, Shopify
 [Perch Chat](https://grabaperch.com/chat)                                                   | 537     | CMS for content-based websites
 [AsgardCms](http://slack.asgardcms.com/)                                                    | 500     | Modular and multilingual CMS
 [Adobe Experience Manager (AEM) CMS](http://aemtech.slack.com/)                             | 300     | Adobe Experience Manager (AEM) CMS (To join, send an email to aemtech@zapts.com with your first & last name, email address, and job title)
 [Ninja Forms](http://developer.ninjaforms.com/slack/)                                       | 136     | WordPress form builder
 [SpinaCMS](http://www.spinacms.com/)                                                        | 123     | CMS for Rails developers
 [AlchemyCMS](http://slack.alchemy-cms.com/)                                                 | 88      | Open source Rails CMS
-[WP Business](http://wpbusiness.chat/join/)                                                 | 63      | Questions, resources, frameworks, tools, invoicing, clients, newsletters, taxes, help and more on WordPress
 
 ## Security
 
 Community                                                     | Members | Description
 ------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------
 [OWASP](http://owasp.herokuapp.com/)                          | 801     | Open web application security project
-[Binary Ninja](https://binaryninjaslack.herokuapp.com/)       | 642     | Discussions about BinaryNinja - a reverse engineering platform
 [DFIR Community](https://rishi28.typeform.com/to/sTbTI8)      | 595     | Community for security folks interested in Digital Forensics & Incident Response
 [SAFE Network](https://slack.safenetwork.org/)                | 473     | Secure data storage and communication platform
-[ZeroDB](https://slack.zerodb.io/)                            | 126     | Enterprise grade security and data protection for Big Data in the Cloud
 [Penetration Testers](https://russel6.typeform.com/to/oHwKNw) | n/a     | Cyber security and Hackers group
 
 ## Testing and QA
