@@ -360,30 +360,18 @@ Community                                              | Members | Description
 
 Community                                                           | Members | Description
 ------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------
-[TheDAO](https://thedao.signup.team/)                               | 7000    | Global chat on Decentralized Autonomous Organization (DAO)
 [Pivx](https://slack.pivx.org/)                                     | 5095    | Private, Instant and Community focused digital cryptocurrency
-[Storj](https://storj-inviter.herokuapp.com/)                       | 4656    | Decentralized Cloud Storage from Storj.io
 [OpenBazaar](https://openbazaar-slackin-drwasho.herokuapp.com/)     | 3128    | Protocol for e-commerce transactions in a fully decentralized marketplace
 [Colony Community](https://colony.io/)                              | 2727    | Decentralised platform for creating new kinds of startups, governed on the blockchain.
 [Bitcoincore.org](https://slack.bitcoincore.org/)                   | 2012    | Open source Bitcoin client software
-[Bitcoin Classic](http://invite.bitcoinclassic.com/)                | 1848    | Fork of Bitcoin with 2 MB block size limit
 [LBRY](https://slack.lbry.io/)                                      | 1714    | Content sharing and publishing platform that is decentralized and owned by its users
 [SuperNET](http://slackinvite.supernet.org/)                        | 1599    | Association of the most reliable blockchain technologies
 [Etherium](http://www.ether.camp/)                                  | 1500    | Decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference
 [Blockstack](http://chat.blockstack.org/)                           | 1196    | Decentralized DNS for blockchain applications
-[Expanse](http://slack.expanse.tech/)                               | 1195    | Open Blockchain Platform
-[Bitnation](https://slack.bitnation.co/)                            | 1172    | Decentralized Autonomous Organization
-[Dash Slack](https://digitalcash.signup.team/)                      | 669     | Open sourced, privacy-centric digital currency with instant transactions
-[NXT](https://nxtchat.herokuapp.com/)                               | 634     | Blockchain platform
 [Bittrex](http://slack.bittrex.com/)                                | 522     | Digital currency exchange
 [Micro](https://micro.mu/)                                          | 472     | Microservice ecosystem. Simplifying building and managing distributed systems
 [Coinality](https://coinality.com/)                                 | 428     | Service connecting employers and job seekers with opportunities that pay in digital currencies
 [Shadow Project](https://shadowproject.io/en)                       | 371     | Digital currency
-[Project Radium](https://projectradon-slack.herokuapp.com/)         | 351     | Blockchain project
-[BitShares](http://slack.bitshares.org/)                            | 291     | Decentralized exchange
-[Daohub](https://thedao.signup.team/)                               | 248     | Platform for use by DAOs (decentralized autonomous organizations)
-[ZapChain.com](https://www.zapchain.com/)                           | 103     | Bitcoin community
-[BlockchainWorks](http://www.blockchainworks.com/blockchain-slack/) | 76      | Niche platform dedicated to growing talent in the Blockchain space
 [Bitcoin India](https://zebpay.typeform.com/to/jonESQ)              | n/a     | BTC exchange
 [Crypto Community](https://crypto.typeform.com/to/ahJtmF)           | n/a     | The oldest and largest crypto Slack community
 
