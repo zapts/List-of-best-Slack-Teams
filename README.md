@@ -184,7 +184,6 @@ Community                                       | Members | Description
 Community                                                 | Members | Description
 --------------------------------------------------------- | ------- | ---------------------------------------------------------------------------
 [iOS Developers HQ](https://ios-developers.io/)           | 9600    | Community for iOS developers
-[iosstack-friends](https://iosstack-friends.signup.team/) | 680     | The App Guy Podcast
 [tvOS](http://tvos-developers.github.io/)                 | 201     | Community for developers working on Apple TV apps using UIkit and TVML/TVJS
 
 ## Android
