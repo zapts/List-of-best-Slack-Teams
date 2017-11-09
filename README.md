@@ -378,25 +378,15 @@ Community                            | Members | Description
 
 Community                                                  | Members | Description
 ---------------------------------------------------------- | ------- | -------------------------------------------------
-[DEVANZ](http://devanz.co/)                                | 1143    | Developers of AU & NZ + friends
 [View Source](http://view-source-radboats.herokuapp.com/)  | 1115    | Web Developers from Australia/New Zealand
-[WP Australia](http://www.wpaustralia.org/slack/join.html) | 400     | WordPress community
-[RubyAU](https://rubyau-slack.herokuapp.com/)              | 363     | Ruby in Australia
 [Fende.rs](https://fendersslack.herokuapp.com/)            | 271     | Front End Developers in (Western) Australia
 [PerthStartup](http://perthstartup.co/)                    | 128     | Slack for the Perth Startup community
-[Australia VR](https://australia-vr.signup.team/)          | 126     | Network for developers and industry professionals
 
 ## Belgium
 
 Community                             | Members | Description
 ------------------------------------- | ------- | ----------------------
 [TechBelgium](http://techbelgium.io/) | 723     | Belgium tech community
-
-## Belarus
-
-Community                       | Members | Description
-------------------------------- | ------- | ------------------
-[Dev.by](https://slack.dev.by/) | 753     | Belarusian IT chat
 
 ## Bosnia and Herzegovina
 
@@ -417,9 +407,7 @@ Community                                                              | Members
 ---------------------------------------------------------------------- | ------- | -------------------------------
 [Vancouver Developers](http://yvrdev.herokuapp.com/)                   | 995     | Canadian developers community
 [Toronto JS](http://slack.torontojs.com/)                              | 407     | Canadian JS community
-[Startup604](http://www.startup604.com/)                               | 384     | Vancouver, BC
 [Vancouver VR Community](https://vanvr-signup.herokuapp.com/)          | 223     | VR people in Vancouver
-[Product of Vancouver](https://hamsterpad.com/chat/productofvancouver) | 56      | Product people around Vancouver
 
 ## Caribbean
 
@@ -432,12 +420,6 @@ Community                                 | Members | Description
 Community                             | Members | Description
 ------------------------------------- | ------- | ----------------
 [devsChile](http://www.devschile.cl/) | 162     | Chile developers
-
-## Colombia
-
-Community                                                    | Members | Description
------------------------------------------------------------- | ------- | ----------------------
-[ProductHunt Colombia](https://www.hamsterpad.com/chat/phco) | 651     | Colombian product chat
 
 ## Denmark
 
@@ -452,7 +434,6 @@ Community                                                      | Members | Descr
 [FrenchStartupsIO](https://frenchstartups.io/)                 | 700     | French entrepreneurs community
 [CryptoFR](https://slack.cryptofr.com/)                        | 622     | Crypto-community in French
 [LyonTechHub](https://slack.lyontechhub.org/)                  | 432     | Communauté technique LyonTechHub
-[Communautés Toulouse](https://ct-slack-invite.herokuapp.com/) | 231     | Toulouse IT scene
 
 ## Germany
 
@@ -480,12 +461,6 @@ Community                                   | Members | Description
 Community                                 | Members | Description
 ----------------------------------------- | ------- | --------------------------
 [Forritarar](http://forritaraspjall.net/) | 330     | Programmer chat in Iceland
-
-## India
-
-Community                                                         | Members | Description
------------------------------------------------------------------ | ------- | -----------------------
-[Build in Bombay](https://www.hamsterpad.com/chat/bombaystartups) | 599     | Indian Startup and Tech
 
 ## Indonesia
 
@@ -557,13 +532,9 @@ Community                                                                       
 [JavaScript](http://slack.javascript.ru/)                                         | 1481    | JS in Russian
 [RussianDevs](https://rusdevs.herokuapp.com/)                                     | 1138    | Russian developers club
 [Python.ru](https://python.stamplayapp.com/)                                      | 1020    | Chat for Russian Python developers and Moscow Python meetups
-[SPB Frontend](http://slack.spb-frontend.ru/)                                     | 518     | Saint Petersburg community
-[Scala](https://scala-ru.herokuapp.com/)                                          | 470     | Scala community
 [All That JS](https://allthatjs.herokuapp.com/)                                   | 417     | JS in Russian
-[ruHoudini](https://ruhoudini.slack.com/)                                         | 135     | Group of Russian Houdini user
 [Ufacode.ru](https://ufacode-slack.herokuapp.com/)                                | 128     | Ufa City community
 [Tomsk JS](http://slack.tomskjs.ru/)                                              | 80      | JS community of Siberian City Tomsk, in Russian. We love Tomsk!
-[Erlang/Elexir](http://otp-russian.herokuapp.com/)                                | 74      | Russian developers brigade
 [4gophers](http://4gophers.ru/slack)                                              | n/a     | Go language
 
 ## Serbia
@@ -579,18 +550,10 @@ Community                                                        | Members | Des
 [Ljubljana Tech Community](https://ljubljanatech.herokuapp.com/) | 166     | Techy group of people from Ljubljana and wider Slovenia
 [Slovenia Ruby User Group](http://slack.rug.si/)                 | 83      | Ruby developers from Slovenia
 
-## South Korea
-
-Community                                        | Members | Description
------------------------------------------------- | ------- | ------------------------------------------------------------------
-[Weirdmeetup](https://weirdmeetup.slack.com/)    | 1895    | Everything related IT area, developers, designers and weird people
-[Code for Seoul](http://slack.codeforseoul.org/) | 118     | Development in Korean
-
 ## Spain
 
 Community                                              | Members | Description
 ------------------------------------------------------ | ------- | -------------------------------------------------------------------------------------------------
-[KIWI Devs](https://www.hamsterpad.com/chat/kiwi-devs) | 339     | Spanish-speaking community created to share materials related to the development
 [CatalanTechCat](http://antonodena.com/techcat/)       | 107     | Catalan debate group for tech, startups, entrepreneurship, design, app development and job offers
 
 ## Switzerland
@@ -598,12 +561,6 @@ Community                                              | Members | Description
 Community                                             | Members | Description
 ----------------------------------------------------- | ------- | ----------------------------------
 [WebZuerich](http://webzuerich-invite.herokuapp.com/) | 149     | Deutschspaechige Chat fuer Zuerich
-
-## Thailand
-
-Community                                         | Members | Description
-------------------------------------------------- | ------- | ---------------------------------
-[Chiang Mai](http://chiangmaichat.herokuapp.com/) | 304     | Startups scene in Chiang Mai City
 
 ## Ukraine
 
