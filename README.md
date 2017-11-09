@@ -70,11 +70,7 @@ Community                                                             | Members 
 
 Community                                                                       | Members | Description
 ------------------------------------------------------------------------------- | ------- | -------------------------------
-[PebbleDev](http://slack.pbldev.io/)                                            | 1984    | Development for Pebble Watch
-[Commercial Drones](https://commercialdrones.signup.team/)                      | 234     | Business on Drones
 [Vector Dev](http://developer.vectorwatch.com:3000/)                            | 208     | Vector Watch Developer Platform
-[Five Minute WatchKit](https://medium.com/five-minute-watchkit?ref=slackin.xyz) | n/a     | Apple Watch Community
-[Sticky Gadgets](http://sticky-gadgets.herokuapp.com/)                          | n/a     | Community for Gadget Geeks
 
 ## Hardware
 
@@ -90,14 +86,11 @@ Community                                                                       
 [WebVR](https://webvr-slack.herokuapp.com/)                                                                           | 1024    | Javascript API that provides access to VR devices, such as the Oculus Rift or Google Cardboard, in your browser
 [VR Creators Network](https://www.reddit.com/r/oculus/comments/3uv3cv/your_invitation_to_the_vr_creators_network_on/) | 700     | VR-related community
 [VR Theory](https://notiontheory.typeform.com/to/QzZmAD)                                                              | 300     | Group discussing the latest in Virtual reality and Augmented reality
-[VRsites](https://www.hamsterpad.com/chat/vrsites)                                                                    | 164     | Community for VR and Janus VR related discussions
-[VR Folks](http://vrfolks.com/)                                                                                       | n/a     | Slack group for folks working on virtual reality
 
 ## Internet of Things
 
 Community                                   | Members | Description
 ------------------------------------------- | ------- | -------------
-[IoT Geeks](https://edt-iot.herokuapp.com/) | 112     | IoT community
 [IoT Platform](http://www.iot-platform.io/) | 11      | IoT community
 
 ## Bots
