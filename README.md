@@ -239,12 +239,9 @@ Community                                                                       
 [Ionic Worldwide](http://ionicworldwide.herokuapp.com/)                                  | 7749                      | HTML5 Hybrid Mobile App Framework
 [Clojure](http://clojurians.net/)                                                        | 7054                      | Clojure community
 [Code Newbie](https://codenewbie.typeform.com/to/uwsWlZ)                                 | 5984                      | Chat for beginners in programming
-[Kotlin](http://kotlinslackin.herokuapp.com/)                                            | 3945                      | Statically-typed programming language that runs on the Java Virtual Machine and also can be compiled to JavaScript source code
 [Elm](http://elmlang.herokuapp.com/)                                                     | 3498                      | Elm community
-[Functional programming](http://fpchat.com/)                                             | 3154 Programming paradigm
 [Devchat](https://devchat.devolio.net/)                                                  | 2881                      | Group of software developers who come together to solve problems and learn
 [DC/OS](http://chat.mesosphere.com/)                                                     | 2650                      | Open source platform enabling enterprises to easily build and run modern apps in production
-[Grails](http://slack-signup.grails.org/)                                                | 2237                      | Web application framework community (Groovy version of Ruby on Rails)
 [Slashrocket](https://slashrocket.io/)                                                   | 2078                      | Slashrocket is a community of over 1,000 developers of all backgrounds
 [DCTech](http://dctechslack.herokuapp.com/)                                              | 1831                      | Tech talk for DC about different frameworks and programming languages
 [EMC {code} Community](http://community.emccode.com/)                                    | 1717                      | One of the largest Open Source focused Slack teams in the world
