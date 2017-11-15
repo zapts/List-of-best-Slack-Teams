@@ -97,6 +97,7 @@ Community                                   | Members | Description
 
 Community                                                    | Members | Description
 ------------------------------------------------------------ | ------- | -------------------------------------------------------------------------------------------------------------------------
+[Botkit](https://community.botkit.ai)                        | 5330    | Community of Botkit developers
 [Slack Developer Hangout](http://dev4slack.xoxco.com/)       | 2696    | Community of developers for Slack
 [Botmakers](https://botmakers.org/)                          | 1562    | Bot fans who make and share online bots for Twitter, Slack, and other networks
 [Chatbots and AI Group](https://chatbotsgroup.engazify.com/) | 68      | A slack community of Bot & AI enthusiasts who help each other learn, build, and promote chatbots across various platforms
