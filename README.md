@@ -236,6 +236,7 @@ Community                                                                       
 [DCTech](http://dctechslack.herokuapp.com/)                                              | 1831                      | Tech talk for DC about different frameworks and programming languages
 [EMC {code} Community](http://community.emccode.com/)                                    | 1717                      | One of the largest Open Source focused Slack teams in the world
 [Dist-sys](https://dist-sys-slack.herokuapp.com/)                                        | 1323                      | Distributed Systems and Computing
+[Dist-sys](https://ddd-cqrs-es.herokuapp.com/)                                           | 1240                       | Domain Driven Design, Command Query Responsibilty Seperation and Event Sourcing
 [APIs You Won't Hate](https://slack.apisyouwonthate.com/)                                | 1221                      | APIs, REST, SOAP
 [Cordova](http://slack.cordova.io/)                                                      | 1135                      | Mobile application development framework
 [Erlang](https://erlang-slack.herokuapp.com/)                                            | 1095                      | Erlang community
@@ -244,7 +245,6 @@ Community                                                                       
 [Codingblocks.net](http://www.codingblocks.net/slack/)                                   | 672                       | Online resource and podcasts about programming
 [Full Stack Developers United](https://gist.github.com/rickyPanzer/cd4bf28bcc0a6ead1be9) | 590                       | Full-Stack Developers community
 [Redox](http://community.redoxengine.com/)                                               | 471                       | Unix-like Operating System community
-[Dist-sys](https://ddd-cqrs-es.herokuapp.com/)                                           | 310                       | Domain Driven Design, Command Query Responsibilty Seperation and Event Sourcing
 [Parse](http://parse-opensource.sapp.io/)                                                | 306                       | Parse community
 [USENIX LISA](http://lisainvite.herokuapp.com/)                                          | 300                       | USENIX Association and LISA Conference
 [Mitmproxy](https://slack.mitmproxy.org/)                                                | 264                       | Console program that allows traffic flows to be intercepted, inspected, modified and replayed
