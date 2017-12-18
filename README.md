@@ -471,6 +471,12 @@ Community                                          | Members | Description
 [UXID](http://join-uxid.herokuapp.com/)            | 436     | UX community in Indonesia
 [Jakarta JS](http://jakartajs-join.herokuapp.com/) | 326     | Jakarta JavaScript User Group
 
+## Ireland
+
+Community                                              | Members | Description
+------------------------------------------------------ | ------- | --------------------------
+[Irish Tech Community](http://irishtechcommunity.com/) | 2177    | Irish Tech Community
+
 ## Israel
 
 Community                                                     | Members | Description
