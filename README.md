@@ -281,7 +281,7 @@ Community                                                                       
 [WordPress](https://make.wordpress.org/chat/)                                               | 11458   | Community for the teams of people who contribute to the WordPress open source project
 [CraftCMS](https://craftcms.com/community)                                                  | 2805    | Content-first CMS
 [Sitecore](http://www.akshaysura.com/2015/10/27/how-to-join-sitecore-slack-community-chat/) | 1092    | Sitecore CMS
-[Adobe Experience Manager (AEM) CMS](https://aem-tech.slack.com/)                           | 966     | Adobe Experience Manager (AEM) CMS (To join, send an email to aemtech@argildx.com with your first & last name, email address, and job title)
+[Adobe Experience Manager (AEM) CMS](https://aem-tech.slack.com/)                           | 966     | Adobe Experience Manager (AEM) CMS (To join, send an email to aemtech@argildx.us with your first & last name, email address, and job title)
 [Perch Chat](https://grabaperch.com/chat)                                                   | 537     | CMS for content-based websites
 [AsgardCms](http://slack.asgardcms.com/)                                                    | 500     | Modular and multilingual CMS
 [Ninja Forms](http://developer.ninjaforms.com/slack/)                                       | 136     | WordPress form builder
